@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Centralized workflow
+
+## Article: MongoDB configuration error exposed 9 million Mexican voter records
+link: https://www.csoonline.com/article/3060204/mongodb-configuration-error-exposed-93-million-mexican-voter-records.html

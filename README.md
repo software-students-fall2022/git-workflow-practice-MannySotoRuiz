@@ -7,3 +7,7 @@ Back in 2015, someone unknown had access to the personal information of 93.4 mil
 # Comments from Junyi Dong
 
 It's interesting to see how easily personal information can be leaked when stored online. In this case, it only took a misconfigured database. This is why companies/governments should invest more into security.
+
+# Comments from Amaan Khwaja
+ 
+What I found interesting was how such a small error can have such a detrimental effect. more than 93 million people's lives were made public because of of this oversight.
